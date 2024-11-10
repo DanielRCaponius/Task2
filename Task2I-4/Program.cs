@@ -13,16 +13,15 @@ namespace Task2I_4{
         }
     }
 
-    interface IPrinter{
+    interface IPrint{
         void print();
+    }
+
+    interface IScan{
         void scan();
     }
 
-    interface IDevice{
-        void print();
-    }
-
-    class Printer : IPrinter{
+    class Printer : IPrint, IScan{
         public void print(){
             Console.WriteLine("Новый принтер печатает!");
         }
@@ -32,7 +31,7 @@ namespace Task2I_4{
         }
     }
 
-    class Invalid_Printer: IDevice{
+    class Invalid_Printer: IPrint{
         public void print(){
             Console.WriteLine("Старый принтер печатает...");
         }
