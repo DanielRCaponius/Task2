@@ -1,0 +1,14 @@
+g:\24VG1\CPT\Task2\Task2G\Task2G-3\bin\Debug\net8.0\Task2G-3.exe
+g:\24VG1\CPT\Task2\Task2G\Task2G-3\bin\Debug\net8.0\Task2G-3.deps.json
+g:\24VG1\CPT\Task2\Task2G\Task2G-3\bin\Debug\net8.0\Task2G-3.runtimeconfig.json
+g:\24VG1\CPT\Task2\Task2G\Task2G-3\bin\Debug\net8.0\Task2G-3.dll
+g:\24VG1\CPT\Task2\Task2G\Task2G-3\bin\Debug\net8.0\Task2G-3.pdb
+g:\24VG1\CPT\Task2\Task2G\Task2G-3\obj\Debug\net8.0\Task2G-3.GeneratedMSBuildEditorConfig.editorconfig
+g:\24VG1\CPT\Task2\Task2G\Task2G-3\obj\Debug\net8.0\Task2G-3.AssemblyInfoInputs.cache
+g:\24VG1\CPT\Task2\Task2G\Task2G-3\obj\Debug\net8.0\Task2G-3.AssemblyInfo.cs
+g:\24VG1\CPT\Task2\Task2G\Task2G-3\obj\Debug\net8.0\Task2G-3.csproj.CoreCompileInputs.cache
+g:\24VG1\CPT\Task2\Task2G\Task2G-3\obj\Debug\net8.0\Task2G-3.dll
+g:\24VG1\CPT\Task2\Task2G\Task2G-3\obj\Debug\net8.0\refint\Task2G-3.dll
+g:\24VG1\CPT\Task2\Task2G\Task2G-3\obj\Debug\net8.0\Task2G-3.pdb
+g:\24VG1\CPT\Task2\Task2G\Task2G-3\obj\Debug\net8.0\Task2G-3.genruntimeconfig.cache
+g:\24VG1\CPT\Task2\Task2G\Task2G-3\obj\Debug\net8.0\ref\Task2G-3.dll
